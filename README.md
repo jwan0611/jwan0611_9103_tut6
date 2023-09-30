@@ -16,7 +16,11 @@
 - **Coding technique:** - Convolution Neural Networks, Poisson fusion  
 - **How this technique helps:** Convolution Neural Networks can add a filter to the facial Image of every person so it has the style of the painting _The Scream_ by changing the color pixels and face distortion. Poisson fusion can change the shadow into the target style (the style of *The Scream* ) and enable spatial and lighting matching between two totally different images. With these techniques, the real photo of an audience can be blended seamlessly into the painting. 
 - **Coding technique in action:**
-![Convolution Neural Networks]()
+
+![Convolution Neural Networks](https://tse3.mm.bing.net/th?id=OIP.IezjrZyoULWuMY7c-edrVAAAAA&pid=Api&P=0&h=180)
+
 [https://www.youtube.com/watch?v=qPKsVAI_W6M&t=1364s]
-[https://zhuanlan.zhihu.com/p/64353235] 
+
 ![Poisson Fusion](https://d3i71xaburhd42.cloudfront.net/fe6191cc382d13f35339521dcd0814440dcd3d69/500px/4-Figure4-1.png)
+
+[https://zhuanlan.zhihu.com/p/64353235] 
