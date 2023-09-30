@@ -5,7 +5,8 @@
 - **Imaging technique of inspiration:** Image fusion (to apply to the painting *The Scream* in the assignment as an animation responding to mouse input) 
 - **Aspect of the example:** Inside the original painting *The Scream*, the character itself is featureless, ungendered, and de-individualized. And perhaps one of the reasons despite being a deeply personal painting, it has become a universal symbol of anxiety. So it's about what we the viewers bring into it. The design concept is to place their individual face on the screaming character so that every audience sees their own reflection. As one zooms in the painting, it shows his/her facial features on the screaming face. With the audience's live image, the artwork can be animated as well. 
 - **Image of inspiration:**
-![Image Fusion]()
+  
+![Image Fusion](https://i.pinimg.com/474x/05/49/6c/05496c92ded7d0d39406826fcb466a26.jpg)
 
 
 
