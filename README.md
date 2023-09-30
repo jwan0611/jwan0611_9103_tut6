@@ -17,3 +17,4 @@
 - **Coding technique in action:**  
 https://www.youtube.com/watch?v=qPKsVAI_W6M   
 https://zhuanlan.zhihu.com/p/64353235 
+  ![Poisson Fusion](https://d3i71xaburhd42.cloudfront.net/fe6191cc382d13f35339521dcd0814440dcd3d69/500px/2-Figure1-1.png)
